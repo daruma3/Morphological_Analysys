@@ -1,2 +1,2 @@
 # Morphological_Analysys
-all works about morphological analysys.
+all works of morphological analysys.
